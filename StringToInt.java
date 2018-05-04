@@ -21,7 +21,7 @@ public static void main(String...s){
       }if(isNegative)
     	  number=-number;//if it is negative in last add - symbol in starting
       
-      System.out.println(number+998); //for testing purpose yet given string converted to integer
+     
 	}
 
 }
